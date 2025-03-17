@@ -62,14 +62,24 @@ intro_video:
 how_it_works:   
   enable: true
   block:
-  - subtitle: "Primary Speciality"
-    title: "You Will Not miss Your All misunderstandings"
-    description: "Protect your design vision and leave nothing up to interpretation with interaction recipes. Quickly share and access all your team members interactions by using libraries, ensuring consistency throughout the."
+  - subtitle: ""
+    title: "✅ Save Up to 70% on Software Costs"
+    description: "No expensive licenses, full ownership of your tech stack."
     image: "images/features-01.png"
 
-  - subtitle: "Secondary Speciality"
-    title: "Say hello to no-code The Advance Creation"
-    description: "From the simplest of interactions to those that use Excel-gradeing formulas, ProtoPie can handle them all. Make mind-blowing of New interactions everyday without ever having to write any new code."
+  - subtitle: ""
+    title: "✅ Uncompromised Security & Privacy"
+    description: "Enterprise-grade security and compliance for your business."
+    image: "images/features-02.png"
+    
+  - subtitle: ""
+    title: "✅ End-to-End IT Management"
+    description: "We handle setup, security, and maintenance so you can focus on growth."
+    image: "images/features-01.png"
+
+  - subtitle: ""
+    title: "✅ Custom Solutions for Your Business Need"
+    description: "Scalable, flexible, and designed for long-term success."
     image: "images/features-02.png"
 
 
