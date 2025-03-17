@@ -63,22 +63,22 @@ how_it_works:
   enable: true
   block:
   - subtitle: ""
-    title: "✅ Save Up to 70% on Software Costs"
+    title: "Save Up to 70% on Software Costs"
     description: "No expensive licenses, full ownership of your tech stack."
     image: "images/features-01.png"
 
   - subtitle: ""
-    title: "✅ Uncompromised Security & Privacy"
+    title: "Uncompromised Security & Privacy"
     description: "Enterprise-grade security and compliance for your business."
     image: "images/features-02.png"
     
   - subtitle: ""
-    title: "✅ End-to-End IT Management"
+    title: "End-to-End IT Management"
     description: "We handle setup, security, and maintenance so you can focus on growth."
     image: "images/features-01.png"
 
   - subtitle: ""
-    title: "✅ Custom Solutions for Your Business Need"
+    title: "Custom Solutions for Your Business Need"
     description: "Scalable, flexible, and designed for long-term success."
     image: "images/features-02.png"
 
