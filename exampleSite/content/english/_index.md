@@ -1,9 +1,9 @@
 ---
 # banner
 banner:
-  title: "Andromeda is the most intuitive way to prototype Designs"
-  button: "Get Premium Version"
-  button_link: "https://gethugothemes.com/products/andromeda/"
+  title: "Powering Africa’s Digital Independence with Open-Source Business Solutions"
+  button: "Book A Free Consultation"
+  button_link: "https://cal.com/julzinsight/1hour"
   image: "images/banner-app.png"
 
 # brands
