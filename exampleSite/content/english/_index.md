@@ -2,7 +2,7 @@
 # banner
 banner:
   title: "Powering Africa’s Digital Independence with Open-Source Business Solutions"
-  button: "Book A Free Consultation"
+  button: "Get Your Free Strategy Call"
   button_link: "https://cal.com/julzinsight/1hour"
   image: "images/banner-app.png"
 
@@ -25,9 +25,9 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consecteturre adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Features"
+  title: "The Future of Business Infrastructure is <br> Open-Source"
+  description: "Empower your business with enterprise-grade IT infrastructure powered by open-source technology. Reduce software costs by up to 70%, eliminate vendor lock-in, and scale seamlessly."
   features_blocks:
     - icon: "las la-lock"
       title: "Enterprise-Grade Security"
